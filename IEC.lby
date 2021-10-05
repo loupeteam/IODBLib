@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=4.3.8.58 SP?>
+<Library Version="0.00.8" Description="A new source library" xmlns="http://br-automation.co.at/AS/Library">
+  <Files>
+    <File>VersionHistory.txt</File>
+    <File Description="Exported data types">IODBLib.typ</File>
+    <File Description="Exported functions and function blocks">IODBLib.fun</File>
+    <File>InitIODatabase.st</File>
+    <File>CreateIODatabase.st</File>
+    <File>GetINAInfo.st</File>
+    <File>GetTaskInfo.st</File>
+    <File>GetChannelNum.st</File>
+  </Files>
+  <Dependencies>
+    <Dependency ObjectName="AsIO" />
+    <Dependency ObjectName="AsBrStr" />
+  </Dependencies>
+</Library>
