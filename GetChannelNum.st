@@ -1,13 +1,10 @@
-(********************************************************************
- * COPYRIGHT --  
- ********************************************************************
- * Library: DPLookup
+(*
  * File: GetChannelNum.st
- * Author: Josh
- * Created: November 12, 2012
- ********************************************************************
- * Implementation of library DPLookup
- ********************************************************************) 
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of IODBLib, licensed under the MIT License.
+ *) 
 
 (*  *)
 FUNCTION GetChannelNum

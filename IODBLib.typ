@@ -1,13 +1,10 @@
-(********************************************************************
- * COPYRIGHT -- ARG
- ********************************************************************
- * Library: IODatabase
- * File: IODatabase.typ
- * Author: Administrator
- * Created: June 17, 2011
- ********************************************************************
- * Data types of library IODatabase
- ********************************************************************)
+(*
+ * File: IODBLib.typ
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of IODBLib, licensed under the MIT License.
+ *) 
 
 TYPE
 	IODataBase : 	STRUCT 

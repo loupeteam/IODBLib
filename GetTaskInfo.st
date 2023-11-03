@@ -1,13 +1,10 @@
-(********************************************************************
- * COPYRIGHT --  
- ********************************************************************
- * Library: IODBLib
+(*
  * File: GetTaskInfo.st
- * Author: Josh
- * Created: September 26, 2012
- ********************************************************************
- * Implementation of library IODBLib
- ********************************************************************) 
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of IODBLib, licensed under the MIT License.
+ *) 
 
 (*  *)
 FUNCTION_BLOCK GetTaskInfo

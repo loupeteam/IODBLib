@@ -1,13 +1,10 @@
-(********************************************************************
- * COPYRIGHT -- ARG
- ********************************************************************
- * Library: IODatabase
- * File: IODatabase.fun
- * Author: Josh Polansky
- * Created: June 17, 2011
- ********************************************************************
- * Functions and function blocks of library IODatabase
- ********************************************************************)
+(*
+ * File: IODBLib.fun
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of IODBLib, licensed under the MIT License.
+ *) 
 
 FUNCTION InitIODB : UINT
 	VAR_INPUT

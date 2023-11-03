@@ -1,13 +1,10 @@
-(********************************************************************
- * COPYRIGHT -- ARG
- ********************************************************************
- * Library: IODatabase
+(*
  * File: GetINAInfo.st
- * Author: Josh Polansky
- * Created: June 20, 2011
- ********************************************************************
- * Implementation of library IODatabase
- ********************************************************************) 
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of IODBLib, licensed under the MIT License.
+ *) 
 
 
 FUNCTION GetINAInfo
